@@ -1,4 +1,4 @@
-# melanoma-detection
+# Binary classification of skin images, Whether it has melanoma cancer or not. 
 ## Problem
 > Build a model to classify melanoma skin cancer in images. Binary classification with mixed data input (image+tabular). 
 ## Dataset
