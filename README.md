@@ -20,9 +20,9 @@
 3.Target
 cancer/no_cancer
 ## Approach
-Data augmentation
-Using EfficientNetB1, B2 and B3 in the same network to build a CNN with multiple feature extractors concatenated and fed to one stack of Dense layers. 
-KFOLD training loop
+* Data augmentation
+* Using EfficientNetB1, B2 and B3 in the same network to build a CNN with multiple feature extractors concatenated and fed to one stack of Dense layers.
+* K-FOLD training loop
 
 ## Training
 Using Google TPUs on Kaggle kernel. 
