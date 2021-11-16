@@ -6,6 +6,8 @@
 
 
 ![samples](samples.png)
+
+
 3. Tabular features including :
 * image_name - unique identifier, points to filename of related DICOM image
 * patient_id - unique patient identifier
