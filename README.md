@@ -3,6 +3,8 @@
 > Build a model to classify melanoma skin cancer in images. 
 ## Dataset
 1. Skin images dataset :
+
+
 ![samples](samples.png)
 3. Tabular features including :
 * image_name - unique identifier, points to filename of related DICOM image
