@@ -9,6 +9,8 @@
 
 
 2. Tabular features including :
+
+
 * image_name - unique identifier, points to filename of related DICOM image
 * patient_id - unique patient identifier
 * sex - the sex of the patient (when unknown, will be blank)
@@ -18,6 +20,8 @@
 * benign_malignant - indicator of malignancy of imaged lesion
 
 3.Target
+
+
 cancer/no_cancer
 ## Approach
 * Data augmentation
